@@ -1,4 +1,4 @@
-## Plain html with the help of CDN (Content Delivery Network)
+## create-react-app (CRA)
 
 # Setup
 
